@@ -1,0 +1,44 @@
+body{
+    background-color:  hsl(233, 47%, 7%);
+    font-size: 15px;
+}
+
+
+p{
+    color:hsla(0, 0%, 100%, 0.75)
+}
+.parent{
+    display:flex;
+    width:70%;
+    margin:150px auto;
+    text-align: left;
+   
+}
+.blue{
+    background-color: hsl(244, 38%, 16%);
+    padding:10px;
+}
+ .div{
+    width:375px;
+    height:auto;
+    
+ }
+ h2{
+    color:hsl(0, 0%, 100%);
+ }
+ .color{
+    color:hsla(0, 0%, 100%, 0.6);
+ }
+ img{
+    width:100%;
+    opacity:0.5;
+ }
+ .divspan
+ {
+    color:hsl(0, 0%, 100%) ;
+    font-weight: 700;
+ }
+ .divspan1{
+    color:hsla(0, 0%, 100%, 0.6); 
+    font-weight:400;
+ }
